@@ -14,4 +14,8 @@
  *= require_self
  */
 
-@import "~bulma";
+@import "bulma";
+.hero-body
+{
+   background-image: asset-data-url("bk.jpg")
+}
